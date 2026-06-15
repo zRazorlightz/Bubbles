@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "bubble-sort-puzzle-24.html",
+      "src": "bubble-sort-puzzle-15.html",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/bubble-sort-puzzle-24.html"
+      "dest": "/bubble-sort-puzzle-15.html"
     }
   ]
 }
